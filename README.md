@@ -12,9 +12,5 @@ espup install
 
 We also need to install some tools for flashing the firmware
 ```
-cargo install cargo-generate
-cargo install ldproxy
-cargo install espup
-cargo install espflash
 cargo install cargo-espflash
 ```
